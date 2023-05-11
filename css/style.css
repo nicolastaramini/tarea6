@@ -1,0 +1,51 @@
+.tabladeatencion{color: blue;font-size: 25px;
+    background-color: cadetblue;}
+/*cambio de color y tamaño a los dias */
+
+.horario{color: blue;background-color: cyan;}
+
+.horarios{color:blueviolet;background-color: brown;font-family: monospace;font-size: 25px;}
+/*cambio de color y fuente al h1 de la tabla*/
+
+header{background-image:url('../imagenes/ravioles.jpg');
+background-size:cover;background-repeat: no-repeat;
+border-style: double; border-width:10px;
+border-color: rgb(206, 4, 4);}
+
+footer{background-color: blanchedalmond;
+border-style: dotted; border-width: 5px;
+border-color: red;width: 90%;}
+
+main{background-color: bisque;
+border-style: dotted;border-width: 5px;
+border-color: red;
+width: 70%;}
+
+aside{background-color:antiquewhite;
+border-style: dotted;border-width: 5px;
+border-color: red;width: 35%;}
+
+.formulario{background-color: bisque;
+    border-style:double;border-width: 5px;
+border-color: red;}
+
+.fondo{background-color: bisque;}
+
+.menu ul{display: flex;
+    flex-direction:row;  
+    list-style: none;
+justify-content:left;
+
+gap: 12px;}
+ 
+.menu ul li{background-color:coral; 
+border-radius: 4rem;
+padding: 1em;
+font-size: .1em 1em;}
+
+header a {text-decoration:none;
+color:aqua}
+header a:active
+header a:visited{color:rgb(243, 9, 9)}
+
+
